@@ -1,0 +1,1 @@
+.\AGSkinChanger.exe .\ResourceSource.txt
