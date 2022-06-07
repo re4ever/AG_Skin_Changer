@@ -43,6 +43,9 @@ spineag_10000013_uiskel
 spineag_10000014_rescommon
 spineag_10000014_resfight
 spineag_10000014_uiskel
+spineag_10000015_rescommon
+spineag_10000015_resfight
+spineag_10000015_uiskel
 spineag_100000161_rescommon
 spineag_100000161_resfight
 spineag_100000161_uiskel
@@ -160,6 +163,9 @@ spineag_10000047_uiskel
 spineag_10000048_rescommon
 spineag_10000048_resfight
 spineag_10000048_uiskel
+spineag_100000491_rescommon
+spineag_100000491_resfight
+spineag_100000491_uiskel
 spineag_10000049_rescommon
 spineag_10000049_resfight
 spineag_10000049_uiskel
@@ -379,6 +385,9 @@ spineag_10000102_uiskel
 spineag_10000104_rescommon
 spineag_10000104_resfight
 spineag_10000104_uiskel
+spineag_10000105_rescommon
+spineag_10000105_resfight
+spineag_10000105_uiskel
 spineag_10000106_rescommon
 spineag_10000106_resfight
 spineag_10000106_uiskel
@@ -433,6 +442,9 @@ spineag_100001651_uiskel
 spineag_10000165_rescommon
 spineag_10000165_resfight
 spineag_10000165_uiskel
+spineag_10000166p_rescommon
+spineag_10000166p_resfight
+spineag_10000166p_uiskel
 spineag_10000166_rescommon
 spineag_10000166_resfight
 spineag_10000166_uiskel
