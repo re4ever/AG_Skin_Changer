@@ -4,6 +4,9 @@ spineag_10000001_uiskel
 spineag_100000011_rescommon
 spineag_100000011_resfight
 spineag_100000011_uiskel
+spineag_100000061_rescommon
+spineag_100000061_resfight
+spineag_100000061_uiskel
 spineag_10000007_rescommon
 spineag_10000007_resfight
 spineag_10000007_uiskel
