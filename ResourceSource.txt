@@ -538,6 +538,9 @@ spineag_10000174_uiskel
 spineag_10000176_rescommon
 spineag_10000176_resfight
 spineag_10000176_uiskel
+spineag_10000178_rescommon
+spineag_10000178_resfight
+spineag_10000178_uiskel
 spineag_10000183_rescommon
 spineag_10000183_resfight
 spineag_10000183_uiskel
